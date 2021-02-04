@@ -1,0 +1,77 @@
+.comment-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.commentbox {
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.queri-raiser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.queri-raiser-dropdown {
+    width: 150px;
+    height: 31px;
+    border-radius: 10px;
+    padding: 0.5em 1em;
+}
+
+#myModal {
+    display: none;
+}
+
+.form {
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+}
+.form button {
+    width: 100px;
+    height: 32px;
+    margin-top:12px;
+    margin-left: 10px;
+}
+.list{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.texarea{
+    width: 100% !important;
+    border-radius: 10px !important;
+    /* margin-top: 10px; */
+    /* margin-right: 150px; */
+}
+
+.query{
+    font-family: monospace;
+    margin-top:50px;
+    left: 0px;
+}
+.ul li{
+    list-style-type:none;
+}
+ .comment{
+    color:black;
+    margin-top: 10px;
+    margin-left: 88px;
+} 
+
+.reply-on-comment{
+    font-family: fangsong;
+    
+}
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+    font-family: serif;
+    /* color: lightblue; */
+    /* font-size : 50px; */
+}
